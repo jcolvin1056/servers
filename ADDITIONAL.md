@@ -6,6 +6,7 @@ This is a curated collection of community-built frameworks and resources that si
 
 ### For servers
 
+* **[AegisGate MCP](https://github.com/aegisgatesecurity/aegisgate-mcp)** (Go) - Security-first MCP server framework with 22 defense layers (regex, ATLAS compliance, CharCNN-BiLSTM neural ML detection, tool poisoning detection, RBAC, response scanning). Zero external dependencies. Streamable HTTP with Mcp-Session-Id. Apache 2.0. by **[AegisGate](https://github.com/aegisgatesecurity)**
 * **[Anubis MCP](https://github.com/zoedsoupe/anubis-mcp)** (Elixir) - A high-performance and high-level Model Context Protocol (MCP) implementation in Elixir. Think like "Live View" for MCP.
 * **[ModelFetch](https://github.com/phuctm97/modelfetch/)** (TypeScript) - Runtime-agnostic SDK to create and deploy MCP servers anywhere TypeScript/JavaScript runs
 * **[EasyMCP](https://github.com/zcaceres/easy-mcp/)** (TypeScript)
